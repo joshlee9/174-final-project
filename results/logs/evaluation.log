@@ -1,0 +1,375 @@
+2024-12-12 01:09:39,261 - INFO - Starting evaluation of stitched panoramas.
+2024-12-12 01:09:39,261 - INFO - Evaluating configuration: common
+2024-12-12 01:09:39,261 - INFO - Computing metrics for 'NISwGSP-grail-stitched.jpg' under 'common' configuration.
+2024-12-12 01:09:47,216 - INFO -   Total Feature Matches: 1166
+2024-12-12 01:09:47,216 - INFO -   Average Match Distance: 268.18
+2024-12-12 01:09:47,216 - INFO -   Average Reprojection Error: 166.10
+2024-12-12 01:09:47,216 - INFO -   Sharpness (Variance of Laplacian): 139.23
+2024-12-12 01:09:47,216 - INFO -   Noise Level (Estimated Sigma): 0.0010
+2024-12-12 01:09:47,217 - INFO -   Mean Color (R, G, B): (148.26, 152.48, 147.20)
+2024-12-12 01:09:47,217 - INFO -   Std Color (R, G, B): (19.10, 19.39, 19.30)
+2024-12-12 01:09:47,217 - INFO -   Edge Density: 0.0142
+2024-12-12 01:09:47,217 - INFO - Computing metrics for 'SPHP-bridge-stitched.jpg' under 'common' configuration.
+2024-12-12 01:09:55,346 - INFO -   Total Feature Matches: 397
+2024-12-12 01:09:55,347 - INFO -   Average Match Distance: 284.11
+2024-12-12 01:09:55,347 - INFO -   Average Reprojection Error: 345.85
+2024-12-12 01:09:55,347 - INFO -   Sharpness (Variance of Laplacian): 143.52
+2024-12-12 01:09:55,347 - INFO -   Noise Level (Estimated Sigma): 0.0015
+2024-12-12 01:09:55,347 - INFO -   Mean Color (R, G, B): (80.64, 79.35, 77.64)
+2024-12-12 01:09:55,347 - INFO -   Std Color (R, G, B): (68.15, 67.60, 64.63)
+2024-12-12 01:09:55,347 - INFO -   Edge Density: 0.0342
+2024-12-12 01:09:55,347 - INFO - Computing metrics for 'SPHP-garden-stitched.jpg' under 'common' configuration.
+2024-12-12 01:09:59,082 - INFO -   Total Feature Matches: 239
+2024-12-12 01:09:59,082 - INFO -   Average Match Distance: 270.84
+2024-12-12 01:09:59,082 - INFO -   Average Reprojection Error: 206.86
+2024-12-12 01:09:59,082 - INFO -   Sharpness (Variance of Laplacian): 158.38
+2024-12-12 01:09:59,082 - INFO -   Noise Level (Estimated Sigma): 0.0017
+2024-12-12 01:09:59,083 - INFO -   Mean Color (R, G, B): (80.40, 74.52, 67.28)
+2024-12-12 01:09:59,083 - INFO -   Std Color (R, G, B): (67.41, 63.08, 61.34)
+2024-12-12 01:09:59,083 - INFO -   Edge Density: 0.0449
+2024-12-12 01:09:59,083 - INFO - Computing metrics for 'NISwGSP-05_SienaCathedral-stitched.jpg' under 'common' configuration.
+2024-12-12 01:10:18,944 - INFO -   Total Feature Matches: 804
+2024-12-12 01:10:18,944 - INFO -   Average Match Distance: 271.50
+2024-12-12 01:10:18,944 - INFO -   Average Reprojection Error: 421.55
+2024-12-12 01:10:18,944 - INFO -   Sharpness (Variance of Laplacian): 64.01
+2024-12-12 01:10:18,944 - INFO -   Noise Level (Estimated Sigma): 0.0015
+2024-12-12 01:10:18,944 - INFO -   Mean Color (R, G, B): (36.95, 35.92, 35.18)
+2024-12-12 01:10:18,945 - INFO -   Std Color (R, G, B): (67.43, 65.56, 64.09)
+2024-12-12 01:10:18,945 - INFO -   Edge Density: 0.0136
+2024-12-12 01:10:18,945 - INFO - Computing metrics for 'SPHP-campus-stitched.jpg' under 'common' configuration.
+2024-12-12 01:10:22,861 - INFO -   Total Feature Matches: 249
+2024-12-12 01:10:22,861 - INFO -   Average Match Distance: 238.74
+2024-12-12 01:10:22,861 - INFO -   Average Reprojection Error: 93.77
+2024-12-12 01:10:22,861 - INFO -   Sharpness (Variance of Laplacian): 88.20
+2024-12-12 01:10:22,862 - INFO -   Noise Level (Estimated Sigma): 0.0015
+2024-12-12 01:10:22,862 - INFO -   Mean Color (R, G, B): (61.26, 62.07, 53.96)
+2024-12-12 01:10:22,862 - INFO -   Std Color (R, G, B): (38.25, 37.56, 35.57)
+2024-12-12 01:10:22,862 - INFO -   Edge Density: 0.0257
+2024-12-12 01:10:22,862 - INFO - Computing metrics for 'AANAP-building-stitched.jpg' under 'common' configuration.
+2024-12-12 01:10:23,428 - INFO -   Total Feature Matches: 319
+2024-12-12 01:10:23,428 - INFO -   Average Match Distance: 236.22
+2024-12-12 01:10:23,428 - INFO -   Average Reprojection Error: 43.85
+2024-12-12 01:10:23,428 - INFO -   Sharpness (Variance of Laplacian): 98.11
+2024-12-12 01:10:23,428 - INFO -   Noise Level (Estimated Sigma): 0.0013
+2024-12-12 01:10:23,428 - INFO -   Mean Color (R, G, B): (80.49, 78.98, 77.76)
+2024-12-12 01:10:23,428 - INFO -   Std Color (R, G, B): (66.72, 67.81, 68.17)
+2024-12-12 01:10:23,429 - INFO -   Edge Density: 0.0247
+2024-12-12 01:10:23,429 - INFO - Computing metrics for 'NISwGSP-Memorial_Hall-stitched.jpg' under 'common' configuration.
+2024-12-12 01:10:24,475 - INFO -   Total Feature Matches: 181
+2024-12-12 01:10:24,475 - INFO -   Average Match Distance: 256.55
+2024-12-12 01:10:24,475 - INFO -   Average Reprojection Error: 625.76
+2024-12-12 01:10:24,475 - INFO -   Sharpness (Variance of Laplacian): 15.99
+2024-12-12 01:10:24,475 - INFO -   Noise Level (Estimated Sigma): 0.0006
+2024-12-12 01:10:24,475 - INFO -   Mean Color (R, G, B): (72.90, 59.15, 48.84)
+2024-12-12 01:10:24,475 - INFO -   Std Color (R, G, B): (72.09, 58.21, 48.65)
+2024-12-12 01:10:24,476 - INFO -   Edge Density: 0.0026
+2024-12-12 01:10:24,476 - INFO - Computing metrics for 'DHW-forest-stitched.jpg' under 'common' configuration.
+2024-12-12 01:10:33,128 - INFO -   Total Feature Matches: 734
+2024-12-12 01:10:33,128 - INFO -   Average Match Distance: 244.18
+2024-12-12 01:10:33,129 - INFO -   Average Reprojection Error: 136.81
+2024-12-12 01:10:33,129 - INFO -   Sharpness (Variance of Laplacian): 36.44
+2024-12-12 01:10:33,129 - INFO -   Noise Level (Estimated Sigma): 0.0010
+2024-12-12 01:10:33,129 - INFO -   Mean Color (R, G, B): (26.31, 27.69, 23.96)
+2024-12-12 01:10:33,129 - INFO -   Std Color (R, G, B): (60.28, 61.82, 58.82)
+2024-12-12 01:10:33,129 - INFO -   Edge Density: 0.0044
+2024-12-12 01:10:33,129 - INFO - Computing metrics for 'SPHP-park-stitched.jpg' under 'common' configuration.
+2024-12-12 01:10:37,802 - INFO -   Total Feature Matches: 191
+2024-12-12 01:10:37,803 - INFO -   Average Match Distance: 273.99
+2024-12-12 01:10:37,803 - INFO -   Average Reprojection Error: 216.29
+2024-12-12 01:10:37,803 - INFO -   Sharpness (Variance of Laplacian): 89.09
+2024-12-12 01:10:37,803 - INFO -   Noise Level (Estimated Sigma): 0.0005
+2024-12-12 01:10:37,803 - INFO -   Mean Color (R, G, B): (92.35, 91.51, 89.73)
+2024-12-12 01:10:37,803 - INFO -   Std Color (R, G, B): (91.13, 90.94, 91.56)
+2024-12-12 01:10:37,803 - INFO -   Edge Density: 0.0081
+2024-12-12 01:10:37,803 - INFO - Computing metrics for 'AANAP-skyline-stitched.jpg' under 'common' configuration.
+2024-12-12 01:10:40,056 - INFO -   Total Feature Matches: 586
+2024-12-12 01:10:40,056 - INFO -   Average Match Distance: 243.79
+2024-12-12 01:10:40,056 - INFO -   Average Reprojection Error: 99.41
+2024-12-12 01:10:40,056 - INFO -   Sharpness (Variance of Laplacian): 135.79
+2024-12-12 01:10:40,056 - INFO -   Noise Level (Estimated Sigma): 0.0015
+2024-12-12 01:10:40,056 - INFO -   Mean Color (R, G, B): (77.75, 81.49, 75.65)
+2024-12-12 01:10:40,056 - INFO -   Std Color (R, G, B): (69.40, 70.93, 69.08)
+2024-12-12 01:10:40,056 - INFO -   Edge Density: 0.0216
+2024-12-12 01:10:40,056 - INFO - Computing metrics for 'NISwGSP-03_SantaMaria-all-stitched.jpg' under 'common' configuration.
+2024-12-12 01:11:26,905 - INFO -   Total Feature Matches: 673
+2024-12-12 01:11:26,908 - INFO -   Average Match Distance: 273.33
+2024-12-12 01:11:26,908 - INFO -   Average Reprojection Error: 635.92
+2024-12-12 01:11:26,908 - INFO -   Sharpness (Variance of Laplacian): 89.29
+2024-12-12 01:11:26,908 - INFO -   Noise Level (Estimated Sigma): 0.0010
+2024-12-12 01:11:26,908 - INFO -   Mean Color (R, G, B): (19.59, 19.18, 18.78)
+2024-12-12 01:11:26,908 - INFO -   Std Color (R, G, B): (47.41, 46.90, 46.49)
+2024-12-12 01:11:26,908 - INFO -   Edge Density: 0.0055
+2024-12-12 01:11:26,908 - INFO - Computing metrics for 'AANAP-roundabout-stitched.jpg' under 'common' configuration.
+2024-12-12 01:11:32,120 - INFO -   Total Feature Matches: 652
+2024-12-12 01:11:32,120 - INFO -   Average Match Distance: 217.13
+2024-12-12 01:11:32,120 - INFO -   Average Reprojection Error: 203.61
+2024-12-12 01:11:32,120 - INFO -   Sharpness (Variance of Laplacian): 103.66
+2024-12-12 01:11:32,120 - INFO -   Noise Level (Estimated Sigma): 0.0013
+2024-12-12 01:11:32,121 - INFO -   Mean Color (R, G, B): (86.33, 80.29, 73.62)
+2024-12-12 01:11:32,121 - INFO -   Std Color (R, G, B): (72.61, 71.90, 72.77)
+2024-12-12 01:11:32,121 - INFO -   Edge Density: 0.0185
+2024-12-12 01:11:32,121 - INFO - Computing metrics for 'NISwGSP-12_PalazzoPubblico-stitched.jpg' under 'common' configuration.
+2024-12-12 01:11:52,645 - INFO -   Total Feature Matches: 650
+2024-12-12 01:11:52,646 - INFO -   Average Match Distance: 279.97
+2024-12-12 01:11:52,646 - INFO -   Average Reprojection Error: 541.46
+2024-12-12 01:11:52,646 - INFO -   Sharpness (Variance of Laplacian): 147.75
+2024-12-12 01:11:52,646 - INFO -   Noise Level (Estimated Sigma): 0.0014
+2024-12-12 01:11:52,646 - INFO -   Mean Color (R, G, B): (55.51, 51.10, 50.16)
+2024-12-12 01:11:52,646 - INFO -   Std Color (R, G, B): (67.71, 64.64, 67.74)
+2024-12-12 01:11:52,646 - INFO -   Edge Density: 0.0167
+2024-12-12 01:11:52,646 - INFO - Computing metrics for 'NISwGSP-06_SienaCathedralLibrary-stitched.jpg' under 'common' configuration.
+2024-12-12 01:14:47,662 - INFO -   Total Feature Matches: 1137
+2024-12-12 01:14:47,665 - INFO -   Average Match Distance: 290.82
+2024-12-12 01:14:47,666 - INFO -   Average Reprojection Error: 583.26
+2024-12-12 01:14:47,666 - INFO -   Sharpness (Variance of Laplacian): 22.37
+2024-12-12 01:14:47,666 - INFO -   Noise Level (Estimated Sigma): 0.0010
+2024-12-12 01:14:47,666 - INFO -   Mean Color (R, G, B): (10.63, 9.49, 8.54)
+2024-12-12 01:14:47,666 - INFO -   Std Color (R, G, B): (36.30, 32.98, 30.12)
+2024-12-12 01:14:47,666 - INFO -   Edge Density: 0.0032
+2024-12-12 01:14:47,666 - INFO - Evaluating configuration: less_common
+2024-12-12 01:14:47,668 - INFO - Computing metrics for 'NISwGSP-grail-stitched.jpg' under 'less_common' configuration.
+2024-12-12 01:15:03,187 - INFO -   Total Feature Matches: 1309
+2024-12-12 01:15:03,188 - INFO -   Average Match Distance: 290.37
+2024-12-12 01:15:03,188 - INFO -   Average Reprojection Error: 49.70
+2024-12-12 01:15:03,188 - INFO -   Sharpness (Variance of Laplacian): 127.31
+2024-12-12 01:15:03,189 - INFO -   Noise Level (Estimated Sigma): 0.0027
+2024-12-12 01:15:03,189 - INFO -   Mean Color (R, G, B): (1.57, 1.59, 1.53)
+2024-12-12 01:15:03,189 - INFO -   Std Color (R, G, B): (8.53, 8.60, 8.36)
+2024-12-12 01:15:03,189 - INFO -   Edge Density: 0.0073
+2024-12-12 01:15:03,189 - INFO - Computing metrics for 'SPHP-bridge-stitched.jpg' under 'less_common' configuration.
+2024-12-12 01:15:09,343 - INFO -   Total Feature Matches: 244
+2024-12-12 01:15:09,344 - INFO -   Average Match Distance: 271.54
+2024-12-12 01:15:09,344 - INFO -   Average Reprojection Error: 294.76
+2024-12-12 01:15:09,344 - INFO -   Sharpness (Variance of Laplacian): 442.71
+2024-12-12 01:15:09,344 - INFO -   Noise Level (Estimated Sigma): 0.0024
+2024-12-12 01:15:09,344 - INFO -   Mean Color (R, G, B): (8.13, 7.83, 7.38)
+2024-12-12 01:15:09,344 - INFO -   Std Color (R, G, B): (14.73, 14.28, 13.79)
+2024-12-12 01:15:09,344 - INFO -   Edge Density: 0.0315
+2024-12-12 01:15:09,344 - INFO - Computing metrics for 'SPHP-garden-stitched.jpg' under 'less_common' configuration.
+2024-12-12 01:15:31,917 - INFO -   Total Feature Matches: 219
+2024-12-12 01:15:31,918 - INFO -   Average Match Distance: 265.97
+2024-12-12 01:15:31,919 - INFO -   Average Reprojection Error: 238.98
+2024-12-12 01:15:31,919 - INFO -   Sharpness (Variance of Laplacian): 15.08
+2024-12-12 01:15:31,919 - INFO -   Noise Level (Estimated Sigma): 0.0000
+2024-12-12 01:15:31,919 - INFO -   Mean Color (R, G, B): (2.07, 1.81, 1.55)
+2024-12-12 01:15:31,919 - INFO -   Std Color (R, G, B): (7.27, 6.56, 6.19)
+2024-12-12 01:15:31,919 - INFO -   Edge Density: 0.0015
+2024-12-12 01:15:31,919 - INFO - Computing metrics for 'NISwGSP-05_SienaCathedral-stitched.jpg' under 'less_common' configuration.
+2024-12-12 01:15:45,592 - INFO -   Total Feature Matches: 637
+2024-12-12 01:15:45,593 - INFO -   Average Match Distance: 261.64
+2024-12-12 01:15:45,593 - INFO -   Average Reprojection Error: 887.76
+2024-12-12 01:15:45,593 - INFO -   Sharpness (Variance of Laplacian): 68.83
+2024-12-12 01:15:45,593 - INFO -   Noise Level (Estimated Sigma): 0.0011
+2024-12-12 01:15:45,593 - INFO -   Mean Color (R, G, B): (5.94, 5.55, 5.46)
+2024-12-12 01:15:45,593 - INFO -   Std Color (R, G, B): (15.47, 14.62, 14.45)
+2024-12-12 01:15:45,593 - INFO -   Edge Density: 0.0094
+2024-12-12 01:15:45,593 - INFO - Computing metrics for 'SPHP-campus-stitched.jpg' under 'less_common' configuration.
+2024-12-12 01:15:49,829 - INFO -   Total Feature Matches: 192
+2024-12-12 01:15:49,829 - INFO -   Average Match Distance: 236.16
+2024-12-12 01:15:49,829 - INFO -   Average Reprojection Error: 204.33
+2024-12-12 01:15:49,829 - INFO -   Sharpness (Variance of Laplacian): 153.78
+2024-12-12 01:15:49,829 - INFO -   Noise Level (Estimated Sigma): 0.0014
+2024-12-12 01:15:49,829 - INFO -   Mean Color (R, G, B): (5.31, 5.16, 4.93)
+2024-12-12 01:15:49,829 - INFO -   Std Color (R, G, B): (14.43, 14.17, 13.72)
+2024-12-12 01:15:49,829 - INFO -   Edge Density: 0.0158
+2024-12-12 01:15:49,829 - INFO - Computing metrics for 'AANAP-building-stitched.jpg' under 'less_common' configuration.
+2024-12-12 01:15:50,456 - INFO -   Total Feature Matches: 176
+2024-12-12 01:15:50,456 - INFO -   Average Match Distance: 281.23
+2024-12-12 01:15:50,456 - INFO -   Average Reprojection Error: 93.01
+2024-12-12 01:15:50,456 - INFO -   Sharpness (Variance of Laplacian): 240.05
+2024-12-12 01:15:50,456 - INFO -   Noise Level (Estimated Sigma): 0.0018
+2024-12-12 01:15:50,456 - INFO -   Mean Color (R, G, B): (4.92, 4.69, 4.75)
+2024-12-12 01:15:50,456 - INFO -   Std Color (R, G, B): (10.91, 10.89, 10.78)
+2024-12-12 01:15:50,456 - INFO -   Edge Density: 0.0167
+2024-12-12 01:15:50,456 - INFO - Computing metrics for 'NISwGSP-Memorial_Hall-stitched.jpg' under 'less_common' configuration.
+2024-12-12 01:15:51,108 - INFO -   Total Feature Matches: 143
+2024-12-12 01:15:51,108 - INFO -   Average Match Distance: 302.98
+2024-12-12 01:15:51,108 - INFO -   Average Reprojection Error: 56.06
+2024-12-12 01:15:51,108 - INFO -   Sharpness (Variance of Laplacian): 74.02
+2024-12-12 01:15:51,108 - INFO -   Noise Level (Estimated Sigma): 0.0013
+2024-12-12 01:15:51,108 - INFO -   Mean Color (R, G, B): (2.89, 2.33, 2.17)
+2024-12-12 01:15:51,108 - INFO -   Std Color (R, G, B): (9.08, 7.56, 6.20)
+2024-12-12 01:15:51,108 - INFO -   Edge Density: 0.0073
+2024-12-12 01:15:51,108 - INFO - Computing metrics for 'DHW-forest-stitched.jpg' under 'less_common' configuration.
+2024-12-12 01:15:52,072 - INFO -   Total Feature Matches: 268
+2024-12-12 01:15:52,072 - INFO -   Average Match Distance: 297.11
+2024-12-12 01:15:52,072 - INFO -   Average Reprojection Error: 943.91
+2024-12-12 01:15:52,072 - INFO -   Sharpness (Variance of Laplacian): 194.85
+2024-12-12 01:15:52,072 - INFO -   Noise Level (Estimated Sigma): 0.0021
+2024-12-12 01:15:52,072 - INFO -   Mean Color (R, G, B): (5.10, 5.11, 4.48)
+2024-12-12 01:15:52,072 - INFO -   Std Color (R, G, B): (11.91, 12.06, 11.13)
+2024-12-12 01:15:52,072 - INFO -   Edge Density: 0.0184
+2024-12-12 01:15:52,072 - INFO - Computing metrics for 'SPHP-park-stitched.jpg' under 'less_common' configuration.
+2024-12-12 01:15:56,523 - INFO -   Total Feature Matches: 193
+2024-12-12 01:15:56,524 - INFO -   Average Match Distance: 267.00
+2024-12-12 01:15:56,524 - INFO -   Average Reprojection Error: 1018.87
+2024-12-12 01:15:56,524 - INFO -   Sharpness (Variance of Laplacian): 219.06
+2024-12-12 01:15:56,524 - INFO -   Noise Level (Estimated Sigma): 0.0010
+2024-12-12 01:15:56,524 - INFO -   Mean Color (R, G, B): (8.23, 7.79, 7.38)
+2024-12-12 01:15:56,524 - INFO -   Std Color (R, G, B): (15.70, 15.17, 14.45)
+2024-12-12 01:15:56,524 - INFO -   Edge Density: 0.0174
+2024-12-12 01:15:56,524 - INFO - Computing metrics for 'AANAP-skyline-stitched.jpg' under 'less_common' configuration.
+2024-12-12 01:15:59,130 - INFO -   Total Feature Matches: 441
+2024-12-12 01:15:59,130 - INFO -   Average Match Distance: 295.14
+2024-12-12 01:15:59,130 - INFO -   Average Reprojection Error: 72.80
+2024-12-12 01:15:59,130 - INFO -   Sharpness (Variance of Laplacian): 62.28
+2024-12-12 01:15:59,130 - INFO -   Noise Level (Estimated Sigma): 0.0012
+2024-12-12 01:15:59,130 - INFO -   Mean Color (R, G, B): (3.55, 3.46, 3.61)
+2024-12-12 01:15:59,130 - INFO -   Std Color (R, G, B): (10.56, 11.38, 11.35)
+2024-12-12 01:15:59,130 - INFO -   Edge Density: 0.0064
+2024-12-12 01:15:59,130 - INFO - Computing metrics for 'NISwGSP-03_SantaMaria-all-stitched.jpg' under 'less_common' configuration.
+2024-12-12 01:16:18,620 - INFO -   Total Feature Matches: 341
+2024-12-12 01:16:18,621 - INFO -   Average Match Distance: 298.24
+2024-12-12 01:16:18,621 - INFO -   Average Reprojection Error: 413.74
+2024-12-12 01:16:18,621 - INFO -   Sharpness (Variance of Laplacian): 61.69
+2024-12-12 01:16:18,621 - INFO -   Noise Level (Estimated Sigma): 0.0011
+2024-12-12 01:16:18,621 - INFO -   Mean Color (R, G, B): (28.55, 27.36, 28.60)
+2024-12-12 01:16:18,621 - INFO -   Std Color (R, G, B): (14.02, 13.51, 13.56)
+2024-12-12 01:16:18,621 - INFO -   Edge Density: 0.0031
+2024-12-12 01:16:18,621 - INFO - Computing metrics for 'AANAP-roundabout-stitched.jpg' under 'less_common' configuration.
+2024-12-12 01:16:23,078 - INFO -   Total Feature Matches: 363
+2024-12-12 01:16:23,078 - INFO -   Average Match Distance: 285.68
+2024-12-12 01:16:23,078 - INFO -   Average Reprojection Error: 103.82
+2024-12-12 01:16:23,078 - INFO -   Sharpness (Variance of Laplacian): 128.69
+2024-12-12 01:16:23,078 - INFO -   Noise Level (Estimated Sigma): 0.0014
+2024-12-12 01:16:23,079 - INFO -   Mean Color (R, G, B): (2.53, 2.34, 2.21)
+2024-12-12 01:16:23,079 - INFO -   Std Color (R, G, B): (10.54, 10.51, 10.26)
+2024-12-12 01:16:23,079 - INFO -   Edge Density: 0.0094
+2024-12-12 01:16:23,079 - INFO - Computing metrics for 'NISwGSP-12_PalazzoPubblico-stitched.jpg' under 'less_common' configuration.
+2024-12-12 01:16:32,888 - INFO -   Total Feature Matches: 500
+2024-12-12 01:16:32,889 - INFO -   Average Match Distance: 267.62
+2024-12-12 01:16:32,889 - INFO -   Average Reprojection Error: 2843.19
+2024-12-12 01:16:32,889 - INFO -   Sharpness (Variance of Laplacian): 218.04
+2024-12-12 01:16:32,889 - INFO -   Noise Level (Estimated Sigma): 0.0018
+2024-12-12 01:16:32,889 - INFO -   Mean Color (R, G, B): (6.45, 5.47, 5.32)
+2024-12-12 01:16:32,889 - INFO -   Std Color (R, G, B): (12.96, 11.70, 11.11)
+2024-12-12 01:16:32,889 - INFO -   Edge Density: 0.0154
+2024-12-12 01:16:32,889 - INFO - Computing metrics for 'NISwGSP-06_SienaCathedralLibrary-stitched.jpg' under 'less_common' configuration.
+2024-12-12 01:17:27,243 - INFO -   Total Feature Matches: 1284
+2024-12-12 01:17:27,244 - INFO -   Average Match Distance: 297.05
+2024-12-12 01:17:27,244 - INFO -   Average Reprojection Error: 348.96
+2024-12-12 01:17:27,244 - INFO -   Sharpness (Variance of Laplacian): 74.34
+2024-12-12 01:17:27,244 - INFO -   Noise Level (Estimated Sigma): 0.0018
+2024-12-12 01:17:27,244 - INFO -   Mean Color (R, G, B): (2.38, 2.13, 1.93)
+2024-12-12 01:17:27,244 - INFO -   Std Color (R, G, B): (9.71, 8.83, 8.23)
+2024-12-12 01:17:27,244 - INFO -   Edge Density: 0.0080
+2024-12-12 01:17:27,244 - INFO - Evaluating configuration: all_filters
+2024-12-12 01:17:27,245 - INFO - Computing metrics for 'NISwGSP-grail-stitched.jpg' under 'all_filters' configuration.
+2024-12-12 01:19:15,942 - INFO -   Total Feature Matches: 780
+2024-12-12 01:19:15,944 - INFO -   Average Match Distance: 284.93
+2024-12-12 01:19:15,944 - INFO -   Average Reprojection Error: 89.24
+2024-12-12 01:19:15,944 - INFO -   Sharpness (Variance of Laplacian): 16.81
+2024-12-12 01:19:15,944 - INFO -   Noise Level (Estimated Sigma): 0.0000
+2024-12-12 01:19:15,944 - INFO -   Mean Color (R, G, B): (1.18, 1.16, 1.13)
+2024-12-12 01:19:15,944 - INFO -   Std Color (R, G, B): (6.42, 6.27, 6.02)
+2024-12-12 01:19:15,944 - INFO -   Edge Density: 0.0018
+2024-12-12 01:19:15,944 - INFO - Computing metrics for 'SPHP-bridge-stitched.jpg' under 'all_filters' configuration.
+2024-12-12 01:19:21,574 - INFO -   Total Feature Matches: 226
+2024-12-12 01:19:21,575 - INFO -   Average Match Distance: 276.37
+2024-12-12 01:19:21,575 - INFO -   Average Reprojection Error: 6476.64
+2024-12-12 01:19:21,575 - INFO -   Sharpness (Variance of Laplacian): 413.83
+2024-12-12 01:19:21,575 - INFO -   Noise Level (Estimated Sigma): 0.0020
+2024-12-12 01:19:21,575 - INFO -   Mean Color (R, G, B): (6.97, 6.52, 6.69)
+2024-12-12 01:19:21,575 - INFO -   Std Color (R, G, B): (15.32, 14.96, 14.64)
+2024-12-12 01:19:21,575 - INFO -   Edge Density: 0.0305
+2024-12-12 01:19:21,575 - INFO - Computing metrics for 'SPHP-garden-stitched.jpg' under 'all_filters' configuration.
+2024-12-12 01:19:25,688 - INFO -   Total Feature Matches: 181
+2024-12-12 01:19:25,688 - INFO -   Average Match Distance: 272.96
+2024-12-12 01:19:25,688 - INFO -   Average Reprojection Error: 106.37
+2024-12-12 01:19:25,688 - INFO -   Sharpness (Variance of Laplacian): 681.11
+2024-12-12 01:19:25,688 - INFO -   Noise Level (Estimated Sigma): 0.0022
+2024-12-12 01:19:25,688 - INFO -   Mean Color (R, G, B): (8.61, 7.99, 7.77)
+2024-12-12 01:19:25,689 - INFO -   Std Color (R, G, B): (18.42, 17.99, 17.37)
+2024-12-12 01:19:25,689 - INFO -   Edge Density: 0.0421
+2024-12-12 01:19:25,689 - INFO - Computing metrics for 'NISwGSP-05_SienaCathedral-stitched.jpg' under 'all_filters' configuration.
+2024-12-12 01:19:43,289 - INFO -   Total Feature Matches: 587
+2024-12-12 01:19:43,290 - INFO -   Average Match Distance: 267.19
+2024-12-12 01:19:43,290 - INFO -   Average Reprojection Error: 309.24
+2024-12-12 01:19:43,291 - INFO -   Sharpness (Variance of Laplacian): 103.31
+2024-12-12 01:19:43,291 - INFO -   Noise Level (Estimated Sigma): 0.0016
+2024-12-12 01:19:43,291 - INFO -   Mean Color (R, G, B): (6.32, 6.03, 5.99)
+2024-12-12 01:19:43,291 - INFO -   Std Color (R, G, B): (14.71, 14.29, 13.93)
+2024-12-12 01:19:43,291 - INFO -   Edge Density: 0.0169
+2024-12-12 01:19:43,291 - INFO - Computing metrics for 'SPHP-campus-stitched.jpg' under 'all_filters' configuration.
+2024-12-12 01:19:47,520 - INFO -   Total Feature Matches: 206
+2024-12-12 01:19:47,520 - INFO -   Average Match Distance: 244.53
+2024-12-12 01:19:47,520 - INFO -   Average Reprojection Error: 310.74
+2024-12-12 01:19:47,520 - INFO -   Sharpness (Variance of Laplacian): 349.62
+2024-12-12 01:19:47,520 - INFO -   Noise Level (Estimated Sigma): 0.0014
+2024-12-12 01:19:47,520 - INFO -   Mean Color (R, G, B): (5.22, 4.99, 4.79)
+2024-12-12 01:19:47,520 - INFO -   Std Color (R, G, B): (11.97, 11.82, 11.26)
+2024-12-12 01:19:47,521 - INFO -   Edge Density: 0.0221
+2024-12-12 01:19:47,521 - INFO - Computing metrics for 'AANAP-building-stitched.jpg' under 'all_filters' configuration.
+2024-12-12 01:19:48,124 - INFO -   Total Feature Matches: 125
+2024-12-12 01:19:48,124 - INFO -   Average Match Distance: 275.29
+2024-12-12 01:19:48,124 - INFO -   Average Reprojection Error: 5207.77
+2024-12-12 01:19:48,124 - INFO -   Sharpness (Variance of Laplacian): 181.54
+2024-12-12 01:19:48,124 - INFO -   Noise Level (Estimated Sigma): 0.0016
+2024-12-12 01:19:48,125 - INFO -   Mean Color (R, G, B): (4.21, 3.67, 3.98)
+2024-12-12 01:19:48,125 - INFO -   Std Color (R, G, B): (9.03, 8.93, 8.92)
+2024-12-12 01:19:48,125 - INFO -   Edge Density: 0.0116
+2024-12-12 01:19:48,125 - INFO - Computing metrics for 'NISwGSP-Memorial_Hall-stitched.jpg' under 'all_filters' configuration.
+2024-12-12 01:19:48,742 - INFO -   Total Feature Matches: 84
+2024-12-12 01:19:48,743 - INFO -   Average Match Distance: 312.66
+2024-12-12 01:19:48,743 - INFO -   Average Reprojection Error: 551.75
+2024-12-12 01:19:48,743 - INFO -   Sharpness (Variance of Laplacian): 86.06
+2024-12-12 01:19:48,743 - INFO -   Noise Level (Estimated Sigma): 0.0023
+2024-12-12 01:19:48,743 - INFO -   Mean Color (R, G, B): (6.41, 4.94, 5.39)
+2024-12-12 01:19:48,743 - INFO -   Std Color (R, G, B): (9.63, 7.86, 7.37)
+2024-12-12 01:19:48,743 - INFO -   Edge Density: 0.0060
+2024-12-12 01:19:48,743 - INFO - Computing metrics for 'DHW-forest-stitched.jpg' under 'all_filters' configuration.
+2024-12-12 01:20:30,104 - INFO -   Total Feature Matches: 292
+2024-12-12 01:20:30,106 - INFO -   Average Match Distance: 290.08
+2024-12-12 01:20:30,106 - INFO -   Average Reprojection Error: 335.99
+2024-12-12 01:20:30,106 - INFO -   Sharpness (Variance of Laplacian): 15.76
+2024-12-12 01:20:30,107 - INFO -   Noise Level (Estimated Sigma): 0.0006
+2024-12-12 01:20:30,107 - INFO -   Mean Color (R, G, B): (0.30, 0.25, 0.25)
+2024-12-12 01:20:30,107 - INFO -   Std Color (R, G, B): (2.69, 2.61, 2.47)
+2024-12-12 01:20:30,107 - INFO -   Edge Density: 0.0007
+2024-12-12 01:20:30,107 - INFO - Computing metrics for 'SPHP-park-stitched.jpg' under 'all_filters' configuration.
+2024-12-12 01:20:36,636 - INFO -   Total Feature Matches: 206
+2024-12-12 01:20:36,638 - INFO -   Average Match Distance: 264.41
+2024-12-12 01:20:36,638 - INFO -   Average Reprojection Error: 612.67
+2024-12-12 01:20:36,638 - INFO -   Sharpness (Variance of Laplacian): 40.49
+2024-12-12 01:20:36,638 - INFO -   Noise Level (Estimated Sigma): 0.0007
+2024-12-12 01:20:36,638 - INFO -   Mean Color (R, G, B): (1.84, 1.70, 1.78)
+2024-12-12 01:20:36,638 - INFO -   Std Color (R, G, B): (7.41, 7.26, 6.96)
+2024-12-12 01:20:36,638 - INFO -   Edge Density: 0.0034
+2024-12-12 01:20:36,638 - INFO - Computing metrics for 'AANAP-skyline-stitched.jpg' under 'all_filters' configuration.
+2024-12-12 01:20:47,890 - INFO -   Total Feature Matches: 358
+2024-12-12 01:20:47,891 - INFO -   Average Match Distance: 276.50
+2024-12-12 01:20:47,891 - INFO -   Average Reprojection Error: 81.07
+2024-12-12 01:20:47,891 - INFO -   Sharpness (Variance of Laplacian): 20.30
+2024-12-12 01:20:47,891 - INFO -   Noise Level (Estimated Sigma): 0.0011
+2024-12-12 01:20:47,891 - INFO -   Mean Color (R, G, B): (1.16, 1.00, 1.12)
+2024-12-12 01:20:47,891 - INFO -   Std Color (R, G, B): (5.13, 5.42, 5.42)
+2024-12-12 01:20:47,891 - INFO -   Edge Density: 0.0018
+2024-12-12 01:20:47,891 - INFO - Computing metrics for 'NISwGSP-03_SantaMaria-all-stitched.jpg' under 'all_filters' configuration.
+2024-12-12 01:21:27,548 - INFO -   Total Feature Matches: 397
+2024-12-12 01:21:27,550 - INFO -   Average Match Distance: 276.99
+2024-12-12 01:21:27,550 - INFO -   Average Reprojection Error: 295.99
+2024-12-12 01:21:27,550 - INFO -   Sharpness (Variance of Laplacian): 32.48
+2024-12-12 01:21:27,550 - INFO -   Noise Level (Estimated Sigma): 0.0015
+2024-12-12 01:21:27,550 - INFO -   Mean Color (R, G, B): (0.72, 0.69, 0.69)
+2024-12-12 01:21:27,550 - INFO -   Std Color (R, G, B): (4.34, 4.25, 4.25)
+2024-12-12 01:21:27,551 - INFO -   Edge Density: 0.0021
+2024-12-12 01:21:27,551 - INFO - Computing metrics for 'AANAP-roundabout-stitched.jpg' under 'all_filters' configuration.
+2024-12-12 01:21:30,207 - INFO -   Total Feature Matches: 341
+2024-12-12 01:21:30,207 - INFO -   Average Match Distance: 286.09
+2024-12-12 01:21:30,207 - INFO -   Average Reprojection Error: 544.59
+2024-12-12 01:21:30,208 - INFO -   Sharpness (Variance of Laplacian): 201.97
+2024-12-12 01:21:30,208 - INFO -   Noise Level (Estimated Sigma): 0.0013
+2024-12-12 01:21:30,208 - INFO -   Mean Color (R, G, B): (3.41, 3.08, 3.13)
+2024-12-12 01:21:30,208 - INFO -   Std Color (R, G, B): (11.48, 11.38, 11.21)
+2024-12-12 01:21:30,208 - INFO -   Edge Density: 0.0134
+2024-12-12 01:21:30,208 - INFO - Computing metrics for 'NISwGSP-12_PalazzoPubblico-stitched.jpg' under 'all_filters' configuration.
+2024-12-12 01:21:39,765 - INFO -   Total Feature Matches: 461
+2024-12-12 01:21:39,766 - INFO -   Average Match Distance: 282.05
+2024-12-12 01:21:39,766 - INFO -   Average Reprojection Error: 628.92
+2024-12-12 01:21:39,766 - INFO -   Sharpness (Variance of Laplacian): 239.37
+2024-12-12 01:21:39,766 - INFO -   Noise Level (Estimated Sigma): 0.0016
+2024-12-12 01:21:39,766 - INFO -   Mean Color (R, G, B): (6.08, 5.21, 5.58)
+2024-12-12 01:21:39,766 - INFO -   Std Color (R, G, B): (12.98, 12.23, 11.81)
+2024-12-12 01:21:39,766 - INFO -   Edge Density: 0.0227
+2024-12-12 01:21:39,772 - INFO - All metrics have been written to 'results/metrics/stitching_metrics.txt'.
+2024-12-12 01:21:39,772 - INFO - Evaluation of stitched panoramas completed.

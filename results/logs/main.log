@@ -1,0 +1,45 @@
+2024-12-12 04:00:42,675 - INFO - Starting image stitching pipeline.
+2024-12-12 04:00:42,677 - INFO - Processing group: AANAP-building with 2 images.
+2024-12-12 04:00:42,776 - INFO - Applying filter configuration: common
+2024-12-12 04:00:43,010 - INFO - Saved stitched panorama to: results/panoramas/common/AANAP-building-stitched.jpg
+2024-12-12 04:00:43,010 - INFO - Metrics for 'AANAP-building-stitched.jpg' under 'common':
+2024-12-12 04:00:43,010 - INFO -   Total Feature Matches: 135
+2024-12-12 04:00:43,010 - INFO -   Average Match Distance: 216.02
+2024-12-12 04:00:43,010 - INFO -   Average Reprojection Error: 19.06
+2024-12-12 04:00:43,010 - INFO -   Processing Time: 0.23 seconds
+2024-12-12 04:00:43,010 - INFO -   Current Memory Usage: 158.86 MB
+2024-12-12 04:00:43,010 - INFO - Applying filter configuration: less_common
+2024-12-12 04:00:44,197 - INFO - Saved stitched panorama to: results/panoramas/less_common/AANAP-building-stitched.jpg
+2024-12-12 04:00:44,197 - INFO - Metrics for 'AANAP-building-stitched.jpg' under 'less_common':
+2024-12-12 04:00:44,198 - INFO -   Total Feature Matches: 94
+2024-12-12 04:00:44,198 - INFO -   Average Match Distance: 224.73
+2024-12-12 04:00:44,198 - INFO -   Average Reprojection Error: 33.30
+2024-12-12 04:00:44,198 - INFO -   Processing Time: 1.19 seconds
+2024-12-12 04:00:44,198 - INFO -   Current Memory Usage: 150.80 MB
+2024-12-12 04:00:44,198 - INFO - Applying filter configuration: all_filters
+2024-12-12 04:00:45,304 - INFO - Saved stitched panorama to: results/panoramas/all_filters/AANAP-building-stitched.jpg
+2024-12-12 04:00:45,304 - INFO - Metrics for 'AANAP-building-stitched.jpg' under 'all_filters':
+2024-12-12 04:00:45,304 - INFO -   Total Feature Matches: 64
+2024-12-12 04:00:45,304 - INFO -   Average Match Distance: 180.38
+2024-12-12 04:00:45,304 - INFO -   Average Reprojection Error: 35.33
+2024-12-12 04:00:45,304 - INFO -   Processing Time: 1.11 seconds
+2024-12-12 04:00:45,304 - INFO -   Current Memory Usage: 182.09 MB
+2024-12-12 04:00:45,308 - INFO - Completed processing group: AANAP-building
+2024-12-12 04:00:45,308 - INFO - Processing group: AANAP-skyline with 4 images.
+2024-12-12 04:00:45,572 - INFO - Applying filter configuration: common
+2024-12-12 04:00:46,301 - INFO - Saved stitched panorama to: results/panoramas/common/AANAP-skyline-stitched.jpg
+2024-12-12 04:00:46,302 - INFO - Metrics for 'AANAP-skyline-stitched.jpg' under 'common':
+2024-12-12 04:00:46,302 - INFO -   Total Feature Matches: 343
+2024-12-12 04:00:46,302 - INFO -   Average Match Distance: 237.33
+2024-12-12 04:00:46,302 - INFO -   Average Reprojection Error: 57.53
+2024-12-12 04:00:46,302 - INFO -   Processing Time: 0.73 seconds
+2024-12-12 04:00:46,302 - INFO -   Current Memory Usage: 567.45 MB
+2024-12-12 04:00:46,302 - INFO - Applying filter configuration: less_common
+2024-12-12 04:00:49,938 - INFO - Saved stitched panorama to: results/panoramas/less_common/AANAP-skyline-stitched.jpg
+2024-12-12 04:00:49,938 - INFO - Metrics for 'AANAP-skyline-stitched.jpg' under 'less_common':
+2024-12-12 04:00:49,938 - INFO -   Total Feature Matches: 163
+2024-12-12 04:00:49,938 - INFO -   Average Match Distance: 232.43
+2024-12-12 04:00:49,938 - INFO -   Average Reprojection Error: 2022.39
+2024-12-12 04:00:49,938 - INFO -   Processing Time: 3.64 seconds
+2024-12-12 04:00:49,939 - INFO -   Current Memory Usage: 248.80 MB
+2024-12-12 04:00:49,939 - INFO - Applying filter configuration: all_filters
