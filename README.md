@@ -1,4 +1,3 @@
-```markdown
 # Advanced Image Stitching Project
 
 ## Overview
